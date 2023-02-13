@@ -1,7 +1,7 @@
 # SQL-Tableau-project
 ## Info
 The aim of this project was to use SQL to execute queries retrieving relevant datasets from a fictional database. Then to export newly obtaiend datasets in a CSV file to be used in Tableau. Finally, create visualization in Tableau.
-In this project I have used MySQL database management tool. 
+MySQL database management tool was used. 
 
 ## Guidelines
 The dataset I have used is contaiend in a zip filed under a name employees_mod_database.zip. The dataset is clean and does not require preprocessing.
