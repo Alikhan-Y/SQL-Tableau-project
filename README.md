@@ -8,3 +8,5 @@ The database structure is presented in employees_mod_db.pdf.
 The 4 business tasks and code execution is kept in SQL-code.sql file.
 The query results have been divided into 4 seperate csv files, which have been exported to Tableau for further visualization.
 The final dashboard is saved in Tableau-workbook.twbx. 
+
+![Dashboard 1](https://user-images.githubusercontent.com/93775985/218647885-73672644-fb36-4f58-aaa9-e3e1047e34b8.png)
